@@ -1,0 +1,5 @@
+Microsoft Windows [Version 10.0.22631.3593]
+(c) Microsoft Corporation. All rights reserved.
+
+DOB 		 NAME  		Salary
+3/3/2001	Akash Dhumal	400000
